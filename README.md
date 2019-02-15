@@ -1,2 +1,4 @@
 # hello-world
-First githup thingy
+First github thingy
+
+First changes, about to commit
